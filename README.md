@@ -1,6 +1,6 @@
 # Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification
 
-Wen-Shuai Hu, Wei Li, Heng-Chao Li, Feng-Hua Huang, Ran Tao
+Wen-Shuai Hu, Wei Li, Heng-Chao Li, Feng-Hua Huang, and Ran Tao
 
 Paper web page: [Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification.](https://ieeexplore.ieee.org/document/10557680)
 
@@ -16,7 +16,7 @@ Citation
 ---------------------
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-W. -S. Hu, W. Li, H. -C. Li, F. -H. Huang and R. Tao, "Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.
+Wen-Shuai Hu, Wei Li, Heng-Chao Li, Feng-Hua Huang, and Ran Tao, "Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.
 
 @ARTICLE{10557680,<br>
   author={Hu, Wen-Shuai and Li, Wei and Li, Heng-Chao and Huang, Feng-Hua and Tao, Ran},<br>
