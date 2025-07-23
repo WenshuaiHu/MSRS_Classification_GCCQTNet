@@ -13,7 +13,9 @@ Citation
 ---------------------
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-@ARTICLE{10557680,
+W. -S. Hu, W. Li, H. -C. Li, F. -H. Huang and R. Tao, "Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.
+
+@ARTICLE{10557680,<br>
   author={Hu, Wen-Shuai and Li, Wei and Li, Heng-Chao and Huang, Feng-Hua and Tao, Ran},<br>
   journal={IEEE Transactions on Neural Networks and Learning Systems}, <br>
   title={Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification}, <br>
