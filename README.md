@@ -45,4 +45,4 @@ Contact Information:
 --------------------
 
 Wen-Shuai Hu: wshuswjtu@163.com<br>
-Wen-Shuai Hu is currently a Post-Doctoral Researcher of the School of Information and Electronics with Beijing Institute of Technology, Beijing, China. 
+He is currently an Assistant Professor with the School of Information Science and Technology, Southwest Jiaotong University, Chengdu, China.
